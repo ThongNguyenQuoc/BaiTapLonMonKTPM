@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Nhóm 2";
+    
+}
+
+
+<br />
+<div class="row">
+    <div class="col-md-8">
+       @Html.Action("SlidePartial","Home")
+    </div>
+</div>
+<div>
+    <img class="img-responsive" src="~/HinhanhSP/ban1.jpg" />
+</div>
+<br />
+<div class="danhmuc">
+    @Html.Action("DanhmucPartial", "Danhmuc")
+</div>
+<div class="dt">
+
+    @Html.Action("dtiphonePartial", "Sanpham")
+</div>
+<div class="dt">
+
+    @Html.Action("dtsamsungpartial", "Sanpham")
+</div>
+
+<div class="dt">
+
+    @Html.Action("dtxiaomipartial", "Sanpham")
+</div>
+
+<div class="row">
+    <h2> Tin tức sản phẩm</h2>
+    <div class="col-md-8">
+        Video
+    </div>
+    <div class="col-md-4">
+        Tin tức
+    </div>
+</div>
+

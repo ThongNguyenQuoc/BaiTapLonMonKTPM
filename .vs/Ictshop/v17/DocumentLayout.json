@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|d:\\2151010361_2151010122_2151013038_sourcecodebaitaplon\\ictshop_aspnet\\ictshop\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\areas\\admin\\views\\donhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\areas\\admin\\views\\donhangs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\sanpham\\dtiphonepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\sanpham\\dtiphonepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\danhmuc\\danhmucpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\danhmuc\\danhmucpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\user\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\user\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\user\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\user\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\content\\slide.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\content\\slide.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\content\\pagedlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\content\\pagedlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\donhangs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\home\\slidepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\home\\slidepartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\ictshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E34AD3E6-D22D-4792-975C-31D062E773A9}|Ictshop\\Ictshop.csproj|solutionrelative:ictshop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:22:46.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\GioHangController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAwwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:57:43.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonhangsController.cs",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\DonhangsController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\DonhangsController.cs",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\DonhangsController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\DonhangsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:50:05.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:37:36.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhmucController.cs",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\DanhmucController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\DanhmucController.cs",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\DanhmucController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\DanhmucController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:26:12.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAIwIoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:35:31.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanphamController.cs",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\SanphamController.cs",
+              "RelativeDocumentMoniker": "Ictshop\\Controllers\\SanphamController.cs",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Controllers\\SanphamController.cs",
+              "RelativeToolTip": "Ictshop\\Controllers\\SanphamController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:29:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.Config",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Web.config",
+              "RelativeDocumentMoniker": "Ictshop\\Web.config",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Web.config",
+              "RelativeToolTip": "Ictshop\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-14T05:19:17.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Areas\\Admin\\Views\\Donhangs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Donhangs\\Delete.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Areas\\Admin\\Views\\Donhangs\\Delete.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Donhangs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T06:14:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:50:48.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagedList.css",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Content\\PagedList.css",
+              "RelativeDocumentMoniker": "Ictshop\\Content\\PagedList.css",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Content\\PagedList.css",
+              "RelativeToolTip": "Ictshop\\Content\\PagedList.css",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T13:50:04.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T06:27:49.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dtiphonePartial.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Sanpham\\dtiphonePartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Sanpham\\dtiphonePartial.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Sanpham\\dtiphonePartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Sanpham\\dtiphonePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:22:48.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:50:29.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dangky.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\User\\Dangky.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\User\\Dangky.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\User\\Dangky.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\User\\Dangky.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:17:38.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DanhmucPartial.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Danhmuc\\DanhmucPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:49:44.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dangnhap.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\User\\Dangnhap.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\User\\Dangnhap.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\User\\Dangnhap.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\User\\Dangnhap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:18:12.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Content\\Site.css",
+              "RelativeDocumentMoniker": "Ictshop\\Content\\Site.css",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Content\\Site.css",
+              "RelativeToolTip": "Ictshop\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T13:50:31.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Slide.css",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Content\\Slide.css",
+              "RelativeDocumentMoniker": "Ictshop\\Content\\Slide.css",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Content\\Slide.css",
+              "RelativeToolTip": "Ictshop\\Content\\Slide.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T13:59:21.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SlidePartial.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Home\\SlidePartial.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Home\\SlidePartial.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Home\\SlidePartial.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Home\\SlidePartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:30:12.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Donhangs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Donhangs\\Index.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Donhangs\\Index.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Donhangs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:50:11.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Donhangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Donhangs\\Details.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Donhangs\\Details.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Donhangs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:49:59.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:49:35.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ictshop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\2151010361_2151010122_2151013038_SourceCodeBaiTapLon\\ictshop_aspnet\\Ictshop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Ictshop\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T09:49:31.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
